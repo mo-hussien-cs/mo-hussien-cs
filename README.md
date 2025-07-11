@@ -1,7 +1,7 @@
-
-<h2 align="left">Hi 👋! My name is MUHAMMED AKA MO and I'm a react developer from egypt</h2>
-
-
+<div align="center">
+  ###
+  <h2>Hi 👋! My name is MUHAMMED AKA MO and I'm a react developer from egypt</h2>
+###
 ## 🌐 Socials:
 
 <div align="left">
@@ -37,9 +37,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://mihail.co/media/2023/snake.gif" alt="Snake animation" />
 
 ###
+
+
+</div>
+
+
 
