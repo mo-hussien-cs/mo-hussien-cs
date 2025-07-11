@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mo-hussien-cs/mo-hussien-cs/output/snake.svg" alt="Snake animation" />
+<img src="https://mihail.co/media/2023/snake.gif" alt="Snake animation" />
 
 ###
 
