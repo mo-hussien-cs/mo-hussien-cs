@@ -1,7 +1,7 @@
 <div align="center">
-  ###
+  
   <h2>Hi 👋! My name is MUHAMMED AKA MO and I'm a react developer from egypt</h2>
-###
+
 ## 🌐 Socials:
 
 <div align="left">
